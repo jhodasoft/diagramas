@@ -13,7 +13,7 @@ This repository contains data architecture diagrams designed in [draw.io](https:
 - Azure Databricks, Delta Lake, SQL Server, Oracle, ETL, DWH, PowerBI, Tableau, Looker Studio.
 
 ## Preview
-![Databricks Hybrid DWH Architecture](architecture/databricks-hybrid-dwh-architecture.png)
+![Databricks Hybrid DWH Architecture](architecture/databricks-hybrid-architecture.png)
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tu-perfil) for more data projects.
